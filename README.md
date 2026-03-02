@@ -5,15 +5,15 @@ I designed this dashboard to answer specific business questions:
 
 ## Page 1: Industry Sector Analysis
 
-### Which industries are dominating the 2019 list? (Volume vs. Revenue).
-### What is the average growth rate per industry? Identifying which sectors are "scaling" vs. just "growing."
-### Workforce Impact: Which industries are the largest employers in the private sector?
+1- Which industries are dominating the 2019 list? (Volume vs. Revenue).
+2- What is the average growth rate per industry? Identifying which sectors are "scaling" vs. just "growing."
+3- Workforce Impact: Which industries are the largest employers in the private sector?
 
 ## Page 2: Geographic Performance (State/Region)
 
-### Which states are the primary hubs for high-growth companies? (Analysis of company density by state).
-### Is growth concentrated in specific regions? (Visualizing the geographic spread of the top 5000).
-### Revenue by Location: Which regions are generating the highest total revenue despite company count?
+1- Which states are the primary hubs for high-growth companies? (Analysis of company density by state).
+2- Is growth concentrated in specific regions? (Visualizing the geographic spread of the top 5000).
+3- Revenue by Location: Which regions are generating the highest total revenue despite company count?
 
 ## Tech Stack & Skills:
 Data Source: INC 5000 Companies 2019.csv
@@ -23,3 +23,5 @@ Data Cleaning: Handling missing values and formatting currency/revenue strings i
 Data Visualization: Implemented interactive maps, slicers for real-time filtering, and drill-throughs.
 
 ## Dashboard Preview:
+![Inc 5000 Analysis Dashboard](./Screenshot%20(206).png)
+![Inc 5000 Analysis Dashboard](./Screenshot%20(207).png)
